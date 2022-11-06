@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Stock Market.   
 - 🌱 I’m currently implementing my Deep Learning ideas, and participating in kaggle competitions
 - 💞️ I’m looking to collaborate on any ML Project
-- 📫 Reach through LinkedIn
+- 📫 Reach through LinkedIn or Gmail
 
 <!---
 SahilPatki30082002/SahilPatki30082002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
